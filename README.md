@@ -191,6 +191,7 @@ A collection of awesome things regarding React ecosystem for me.
 
 * [React チュートリアル](https://facebook.github.io/react/docs/tutorial-ja-JP.html)
 * [30分間React入門「いいねボタン」作成チュートリアル](http://c16e.com/1510161700/)
+* [5分で理解する React.js](http://qiita.com/tomzoh/items/7fabe7cb57dd96425867)
 
 ##### Isomorphic Apps
 * [isomorphic-tutorial - Tutorial app to demonstrate isomorphic JavaScript concepts](https://github.com/spikebrehm/isomorphic-tutorial)
