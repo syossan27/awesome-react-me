@@ -6,9 +6,11 @@ A collection of awesome things regarding React ecosystem for me.
 - [React](#react)
   - [React General Resources](#react-general-resources)
   - [React Community](#react-community)
+  - [React Community in JP](#react-community-in-jp)
   - [React Online Playground](#react-online-playground)
   - [React Tutorials](#react-tutorials)
     - [React General Tutorials](#react-general-tutorials)
+    - [React General Tutorials in JP](#react-general-tutorials-in-jp)
     - [Isomorphic Apps](#isomorphic-apps)
     - [Building Robust Web Apps with React](#building-robust-web-apps-with-react)
     - [Comprehensive Guide to Building Apps with React](#comprehensive-guide-to-building-apps-with-react)
@@ -119,6 +121,12 @@ A collection of awesome things regarding React ecosystem for me.
 * [Reactiflux](http://www.reactiflux.com/)
 * [Reactiflux Slack Team](http://www.reactiflux.com/)
 
+
+#### React Community in JP
+* [React スタックオーバーフロー](http://ja.stackoverflow.com/questions/tagged/reactjs)
+* [React teratail](https://teratail.com/tags/React.js)
+* [React Qiita](http://qiita.com/search?utf8=%E2%9C%93&sort=rel&q=tag%3Areactjs)
+
 #### React Online Playground
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
 * [React JSFiddle Integration without JSX](https://jsfiddle.net/reactjs/5vjqabv3/)
@@ -177,6 +185,12 @@ A collection of awesome things regarding React ecosystem for me.
 * [Building A Simple React Application Using The Flux Pattern: A Step-By-Step Guide](http://tonyspiro.com/building-a-simple-react-application-using-the-flux-pattern/)
 * [Using React.js with Salesforce](http://www.oyecode.com/2015/09/getting-started-with-reactjs-and.html)
 * [Make a Mobile App with ReactJS in 30 Minutes](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes)
+
+
+##### React General Tutorials in JP
+
+* [React チュートリアル](https://facebook.github.io/react/docs/tutorial-ja-JP.html)
+* [30分間React入門「いいねボタン」作成チュートリアル](http://c16e.com/1510161700/)
 
 ##### Isomorphic Apps
 * [isomorphic-tutorial - Tutorial app to demonstrate isomorphic JavaScript concepts](https://github.com/spikebrehm/isomorphic-tutorial)
